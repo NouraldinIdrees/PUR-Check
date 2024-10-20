@@ -60,9 +60,6 @@ Dataset with images used for this tool can be accessed [here](https://drive.goog
 
 The repository also includes a Detectron2-based deep learning model for cell segmentation. However, this model is still in development and requires further refinement to match the accuracy of the classical image processing methods. It is included for research purposes and future development.
 
-## GIF Visualization
-
-A GIF showcasing the image processing steps—such as segmentation and watershed transformation—will be added to demonstrate the workflow. This visual aid will provide a clearer understanding of the stages involved in the cell recognition process.
 
 ## License
 
