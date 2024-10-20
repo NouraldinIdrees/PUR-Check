@@ -19,7 +19,7 @@ Polyurethane rigid foam (PUR) is widely used in district heating systems due to 
 
 ### Library Dependencies
 
-This project requires several external libraries, including OpenCV, ImageJ, scyjava, Matplotlib, and Seaborn. The integration with ImageJ is done via the PyImageJ library. Please note that initializing ImageJ may take some time, especially on the first run, as all necessary components are loaded. You can find more information about PyImageJ [here](https://github.com/imagej/pyimagej?tab=readme-ov-file).
+This project requires several external libraries, including OpenCV, ImageJ, scyjava, Matplotlib, and Seaborn. The integration with ImageJ is done via the PyImageJ library. Please note that initializing ImageJ may take some time, especially on the first run, as all necessary components are loaded. If you encounter any issues during initialization, consider checking the Java installation and ensuring that all required dependencies are correctly installed. You can find more information about PyImageJ [here](https://github.com/imagej/pyimagej?tab=readme-ov-file).
 
 ## Installation
 
