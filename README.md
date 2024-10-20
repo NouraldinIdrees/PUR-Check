@@ -43,6 +43,8 @@ To run the tool locally, follow these steps:
    ```bash
    jupyter notebook
    ```
+   
+Dataset with images used for this tool can be accessed [here](https://drive.google.com/drive/folders/1HdWGsBG0VT-5mqdjPOTnnfafEywor_vK?usp=sharing).
 
 ## Usage
 
