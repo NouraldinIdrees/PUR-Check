@@ -13,7 +13,7 @@ Polyurethane rigid foam (PUR) is widely used in district heating systems due to 
   - `01b_pur-cell-analysis-DE (multi-image).ipynb`
 - **Automated Cell Measurement**: Accurately calculates cell diameters and wall thicknesses for quality evaluation against standards like DIN EN 253.
 - **Segmentation and Watershed Transformation**: Includes steps for extracting cell structures from microscopy images through adaptive thresholding and watershed segmentation.
-- **Validation on Real and Synthetic Data: The tool has been tested on both real X-ray microscopy images and synthetic test images.
+- **Validation on Real and Synthetic Data**: The tool has been tested on both real X-ray microscopy images and synthetic test images.
 - **Model Development**: A deep learning model using the Detectron2 framework has been integrated for research purposes, but it is still under development and currently does not perform as accurately as the classical methods.
 
   ![PUR-Check_Idrees](https://github.com/user-attachments/assets/c03be6f7-fecd-4510-9fbf-70bd5debf00e)
