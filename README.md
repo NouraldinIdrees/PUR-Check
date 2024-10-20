@@ -1,4 +1,4 @@
-# AI-Supported Image Processing Tool for Automated Cell Recognition and Measurement in PUR Foam Samples
+# AI-Supported Image Processing Tool for Automated Cell Recognition and Measurement in polyurethane rigid foam (PUR) Foam Samples
 
 This repository contains code and resources for an AI-based image processing tool designed for the automated detection and measurement of cells in polyurethane rigid foam (PUR) samples. The tool is developed as part of a master's thesis at HafenCity University Hamburg, with the goal of enhancing the quality inspection process for insulation materials in district heating systems.
 
